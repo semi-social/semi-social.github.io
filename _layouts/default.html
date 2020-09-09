@@ -21,7 +21,9 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
+        {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+        {% endif %}
         {% if site.show_downloads or site.github.is_project_page %}
           <ul>
           {% if site.show_downloads %}
