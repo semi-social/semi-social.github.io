@@ -14,7 +14,7 @@ If you find a security issue or weakness, please contact me by email using PGP (
 
 You can contact me by email with PGP using the following public key:
 
-[Click here to download the ASCII-armored public key](0x82546B27A545ED1E-pub.asc) or alternatively [click here to view in browser](PGP.md)
+[Download ASCII-armored public key](0x82546B27A545ED1E-pub.asc) or alternatively [view in browser](PGP.md)
 
 The fingerprint is ```7D97 CB67 6534 7DA5 C7E1 8FD7 8254 6B27 A545 ED1E```
 
