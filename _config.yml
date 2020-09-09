@@ -1,5 +1,5 @@
 theme: jekyll-theme-modernist
 title: semi.social
-include: [".well-known"]
+include: [".well-known", "favicon.ico"]
 github:
   is_project_page: false
