@@ -1,4 +1,32 @@
 For your convenience in-browser for copy-paste:
+
+New keys are signed with the old keys as proof that it's not a malicious swap.* Signature missing? Let me know!
+
+### Current Key (Curve25519):
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEX+EXUBYJKwYBBAHaRw8BAQdAFmTYDFAjEZpMw0/weieB5XEq2pYb54fp1ER6
+/HI4H5e0HnNlbWkuc29jaWFsIDxpbmZvQHNlbWkuc29jaWFsPoiUBBMWCgA8FiEE
+3ZZhsitzJC5casamo9/6nAt1/74FAl/hF1ACGwEFCRLMAwAECwkIBwQVCgkIBRYC
+AwEAAh4BAheAAAoJEKPf+pwLdf++IhkA/1CLfImJJ6L0nWgI/zhQ30F2wHmCFMfv
+bdwOOi1QGMCLAP9w59BXLC5dZu0LkBjtzmqekKfD9gANPVumql4lvw0ADrg4BF/h
+F6USCisGAQQBl1UBBQEBB0A0IQKadd1rbEJFNiaK22lKMG+Hpt0pIiH/A5Lpi+fx
+DQMBCAeIfgQYFgoAJhYhBN2WYbIrcyQuXGrGpqPf+pwLdf++BQJf4RelAhsMBQkB
+4TOAAAoJEKPf+pwLdf+++ncA/i2J4r/O8mo6dhpyRIPZzLGcgeQQONUSzj+iJKD8
+ML+kAP9VaokydNUl+5rWtGoZDIkO4ls7jKb/+S5rAzSxMZMQALgzBF/hF78WCSsG
+AQQB2kcPAQEHQDZtDmSQXF4qRbR0QcE0Imx6p/xEvx5ErmpCLMunbg2DiPUEGBYK
+ACYWIQTdlmGyK3MkLlxqxqaj3/qcC3X/vgUCX+EXvwIbAgUJAeEzgACBCRCj3/qc
+C3X/vnYgBBkWCgAdFiEEtv/uNGwBzZArsX3AHj9bUlsrZIwFAl/hF78ACgkQHj9b
+UlsrZIwwPwD+Mv8MoGGvxB3uUJ3VdAq5jQMNfO2edV07H6Lz1aitkAIBAMDXxszg
+H46EakLW57kh23mucADcbA8ML8r3gNAAJ7gPOtwA/RZJOAArJSjUZ1eEq208oB8h
+gAxb+tq1RrtfisT/bG4AAP9SteQ5xKvAysZn1GygMeTPJ9nhQSo8tBnhxysDjIdc
+DA==
+=Q9pp
+-----END PGP PUBLIC KEY BLOCK-----
+```
+The fingerprint is ```DD96 61B2 2B73 242E 5C6A  C6A6 A3DF FA9C 0B75 FFBE```
+### Old Key (RSA 4096):
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -47,3 +75,5 @@ pX8DcRgoL9NINDvVA/OSQdlZ4DKFfP8ls9uThGokUCfUUw==
 ```
 
 The fingerprint is ```7D97 CB67 6534 7DA5 C7E1 8FD7 8254 6B27 A545 ED1E```
+
+###### \*Security Tip: Such a chain of trust only works if you already had the old key(s). An attacker could create a new, artificial chain and swap all keys out. So this is not a guarantee of anything if you didn't already have a trusted key to verify against. This is JFYI.
