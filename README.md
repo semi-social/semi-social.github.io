@@ -14,9 +14,11 @@ If you find a security issue or weakness, please contact me by email using PGP (
 
 You can contact me by email with PGP using the following public key:
 
-[Download ASCII-armored public key](0x82546B27A545ED1E-pub.asc) or alternatively [view in browser](PGP.md)
+[Download ASCII-armored public key](0xA3DFFA9C0B75FFBE-pub.asc) or alternatively [view in browser (including key history)](PGP.md)
 
-The fingerprint is ```7D97 CB67 6534 7DA5 C7E1 8FD7 8254 6B27 A545 ED1E```
+The fingerprint is ```DD96 61B2 2B73 242E 5C6A  C6A6 A3DF FA9C 0B75 FFBE``` (new key, Curve25519)
+
+The fingerprint is ```7D97 CB67 6534 7DA5 C7E1 8FD7 8254 6B27 A545 ED1E``` (old key, RSA 4096)
 
 I did not provide the email address in cleartext on this site because of bots that scrape for email addresses and then start to spam you. You can get the email address from the public key, though. It also has a nice side effect that it will filter people that don't use PGP. ;)
 
