@@ -16,6 +16,8 @@ You can contact me by email with PGP using the following public key:
 
 [Download ASCII-armored public key](0xA3DFFA9C0B75FFBE-pub.asc) or alternatively [view in browser (including key history)](PGP.md)
 
+Please make sure to sign your message and attach your public key so that I can respond.
+
 The fingerprint is ```DD96 61B2 2B73 242E 5C6A  C6A6 A3DF FA9C 0B75 FFBE``` (new key, Curve25519)
 
 The fingerprint is ```7D97 CB67 6534 7DA5 C7E1 8FD7 8254 6B27 A545 ED1E``` (old key, RSA 4096)
